@@ -20,11 +20,31 @@ var pullfiles=function(){
     var i=0;
 
     var lines="";
+
+    var nbread=0;
     while ( i < fl) {
         // localize file var in the loop
-        var file = files[i];
+        var f = files[i];
         //alert(file.name);
-        lines+=file.name+";\n";
+        //lines+=f.name+";\n";
+
+	    if (f) {
+	    	lines +="Trying "+f.name+"\r\n";
+	      var r = new FileReaderSync();	      
+	      r.readAsText(f);
+
+		  var contents = r.result;
+	        lines+= "Got the file" 
+	              +"name: " + f.name + " "
+	              +"type: " + f.type + " "
+	              +"size: " + f.size + " bytes "
+	              + "starts with: \r\n" 
+	              + contents + "\r\n";
+	         lines+=" "+r.error+"\r\n";	      
+	    } else { 
+	      alert("Failed to load file");
+	    }
+
         i++;
     }    
 
