@@ -1,0 +1,359 @@
+Winamax Poker - CashGame - HandId: #8276731-687-1450334409 - Holdem no limit (10€/20€) - 2015/12/17 06:40:09 UTC
+Table: 'SHORT TRACK 100€' 5-max (real money) Seat #3 is the button
+Seat 1: FRRUGBY76 (177€)
+Seat 3: 123COUSCOUS (212.50€)
+Seat 5: Nimeta (314.50€)
+[b]ANTE/BLINDS[/b]
+Nimeta posts small blind 10€
+FRRUGBY76 posts big blind 20€
+[b]PRE-FLOP[/b] 
+123COUSCOUS calls 20€
+Nimeta calls 10€
+FRRUGBY76 checks
+[b]FLOP[/b] 
+[5H] [QC] [8S]
+Nimeta checks
+FRRUGBY76 checks
+123COUSCOUS bets 30€
+Nimeta folds
+FRRUGBY76 calls 30€
+[b]TURN[/b] 
+[5H] [QC] [8S] [6S]
+FRRUGBY76 checks
+123COUSCOUS bets 162.50€ and is all-in
+FRRUGBY76 calls 127€ and is all-in
+[b]RIVER[/b] 
+[5H] [QC] [8S] [6S] [AC]
+[b]SHOW DOWN[/b]
+FRRUGBY76 shows 
+[8D] [2D] (One pair : 8)
+123COUSCOUS shows 
+[QD] [9D] (One pair : Queens)
+123COUSCOUS collected 406.50€ from pot
+[b]SUMMARY[/b]
+Total pot 406.50€ | Rake 3€
+Board: 
+[5H] [QC] [8S] [6S] [AC]
+Seat 1: FRRUGBY76 (big blind) mucked
+Seat 3: 123COUSCOUS (button) showed 
+[QD] [9D] and won 406.50€ with One pair : Queens
+
+
+Winamax Poker - CashGame - HandId: #8276756-2390-1450334425 - Holdem no limit (0.01€/0.02€) - 2015/12/17 06:40:25 UTC
+Table: 'SHORT TRACK 0,10€' 5-max (real money) Seat #5 is the button
+Seat 1: yeye971 (0.34€)
+Seat 3: Ricoce (0.34€)
+Seat 4: AL_COMET (0.10€)
+Seat 5: Mattheus66 (0.09€)
+[b]ANTE/BLINDS[/b]
+yeye971 posts small blind 0.01€
+Ricoce posts big blind 0.02€
+AL_COMET posts small blind 0.01€ out of position
+[b]PRE-FLOP[/b] 
+AL_COMET calls 0.02€
+Mattheus66 folds
+yeye971 folds
+Ricoce checks
+[b]FLOP[/b] 
+[AS] [5C] [JS]
+Ricoce checks
+AL_COMET bets 0.02€
+Ricoce calls 0.02€
+[b]TURN[/b] 
+[AS] [5C] [JS] [KD]
+Ricoce checks
+AL_COMET bets 0.02€
+Ricoce calls 0.02€
+[b]RIVER[/b] 
+[AS] [5C] [JS] [KD] [2H]
+Ricoce checks
+AL_COMET checks
+[b]SHOW DOWN[/b]
+AL_COMET mucks hand
+Ricoce shows 
+[9D] [9H] (One pair : 9)
+Ricoce collected 0.13€ from pot
+[b]SUMMARY[/b]
+Total pot 0.13€ | Rake 0.01€
+Board: 
+[AS] [5C] [JS] [KD] [2H]
+Seat 3: Ricoce (big blind) showed 
+[9D] [9H] and won 0.13€ with One pair : 9
+Seat 4: AL_COMET mucked
+
+
+Winamax Poker - CashGame - HandId: #8274459-4336-1450334426 - Holdem no limit (0.01€/0.02€) - 2015/12/17 06:40:26 UTC
+Table: 'SHORT TRACK 0,10€ 02' 5-max (real money) Seat #3 is the button
+Seat 1: anais 343 (0.06€)
+Seat 2: 6LO7LO (0€)
+Seat 3: Jessie974run (0.32€)
+Seat 4: LION59144 (0.17€)
+Seat 5: rastakoer 35 (0.11€)
+[b]ANTE/BLINDS[/b]
+LION59144 posts small blind 0.01€
+rastakoer 35 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+anais 343 raises 0.04€ to 0.06€ and is all-in
+Jessie974run folds
+LION59144 folds
+rastakoer 35 calls 0.04€
+[b]FLOP[/b] 
+[6H] [6C] [5D]
+[b]TURN[/b] 
+[6H] [6C] [5D] [8C]
+[b]RIVER[/b] 
+[6H] [6C] [5D] [8C] [QC]
+[b]SHOW DOWN[/b]
+rastakoer 35 shows 
+[7H] [JH] (One pair : 6)
+anais 343 shows 
+[KC] [6S] (Trips of 6)
+anais 343 collected 0.12€ from pot
+[b]SUMMARY[/b]
+Total pot 0.12€ | Rake 0.01€
+Board: 
+[6H] [6C] [5D] [8C] [QC]
+Seat 1: anais 343 showed 
+[KC] [6S] and won 0.12€ with Trips of 6
+Seat 5: rastakoer 35 (big blind) mucked
+
+
+Winamax Poker - CashGame - HandId: #8276731-688-1450334443 - Holdem no limit (10€/20€) - 2015/12/17 06:40:43 UTC
+Table: 'SHORT TRACK 100€' 5-max (real money) Seat #5 is the button
+Seat 1: FRRUGBY76 (100€)
+Seat 3: 123COUSCOUS (406.50€)
+Seat 5: Nimeta (294.50€)
+[b]ANTE/BLINDS[/b]
+FRRUGBY76 posts small blind 10€
+123COUSCOUS posts big blind 20€
+[b]PRE-FLOP[/b] 
+Nimeta folds
+FRRUGBY76 raises 80€ to 100€ and is all-in
+123COUSCOUS raises 80€ to 180€
+[b]FLOP[/b] 
+[4S] [10H] [AS]
+[b]TURN[/b] 
+[4S] [10H] [AS] [8D]
+[b]RIVER[/b] 
+[4S] [10H] [AS] [8D] [9H]
+[b]SHOW DOWN[/b]
+FRRUGBY76 shows 
+[5S] [KS] (High card : Ace)
+123COUSCOUS shows 
+[8C] [KD] (One pair : 8)
+123COUSCOUS collected 277€ from pot
+[b]SUMMARY[/b]
+Total pot 277€ | Rake 3€
+Board: 
+[4S] [10H] [AS] [8D] [9H]
+Seat 1: FRRUGBY76 (small blind) mucked
+Seat 3: 123COUSCOUS (big blind) showed 
+[8C] [KD] and won 277€ with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #8274459-4337-1450334447 - Holdem no limit (0.01€/0.02€) - 2015/12/17 06:40:47 UTC
+Table: 'SHORT TRACK 0,10€ 02' 5-max (real money) Seat #4 is the button
+Seat 1: anais 343 (0.12€)
+Seat 2: 6LO7LO (0.10€)
+Seat 3: Jessie974run (0.32€)
+Seat 4: LION59144 (0.16€)
+Seat 5: rastakoer 35 (0.05€)
+[b]ANTE/BLINDS[/b]
+rastakoer 35 posts small blind 0.01€
+anais 343 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Jessie974run calls 0.02€
+LION59144 folds
+rastakoer 35 folds
+anais 343 checks
+[b]FLOP[/b] 
+[JH] [AH] [4C]
+anais 343 bets 0.05€
+Jessie974run raises 0.05€ to 0.10€
+anais 343 folds
+Jessie974run collected 0.19€ from pot
+[b]SUMMARY[/b]
+Total pot 0.19€ | Rake 0.01€
+Board: 
+[JH] [AH] [4C]
+Seat 3: Jessie974run won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #8276731-689-1450334460 - Holdem no limit (10€/20€) - 2015/12/17 06:41:00 UTC
+Table: 'SHORT TRACK 100€' 5-max (real money) Seat #1 is the button
+Seat 1: FRRUGBY76 (100€)
+Seat 3: 123COUSCOUS (503.50€)
+Seat 5: Nimeta (294.50€)
+[b]ANTE/BLINDS[/b]
+123COUSCOUS posts small blind 10€
+Nimeta posts big blind 20€
+[b]PRE-FLOP[/b] 
+FRRUGBY76 raises 80€ to 100€ and is all-in
+123COUSCOUS folds
+Nimeta calls 80€
+[b]FLOP[/b] 
+[KD] [5H] [4D]
+[b]TURN[/b] 
+[KD] [5H] [4D] [6D]
+[b]RIVER[/b] 
+[KD] [5H] [4D] [6D] [QD]
+[b]SHOW DOWN[/b]
+Nimeta shows 
+[9S] [KS] (One pair : Kings)
+FRRUGBY76 shows 
+[10D] [QH] (Flush King high)
+FRRUGBY76 collected 207€ from pot
+[b]SUMMARY[/b]
+Total pot 207€ | Rake 3€
+Board: 
+[KD] [5H] [4D] [6D] [QD]
+Seat 1: FRRUGBY76 (button) showed 
+[10D] [QH] and won 207€ with Flush King high
+Seat 5: Nimeta (big blind) mucked
+
+
+Winamax Poker - CashGame - HandId: #8276756-2391-1450334465 - Holdem no limit (0.01€/0.02€) - 2015/12/17 06:41:05 UTC
+Table: 'SHORT TRACK 0,10€' 5-max (real money) Seat #1 is the button
+Seat 1: yeye971 (0.33€)
+Seat 3: Ricoce (0.41€)
+Seat 4: AL_COMET (0.03€)
+Seat 5: Mattheus66 (0.09€)
+[b]ANTE/BLINDS[/b]
+Ricoce posts small blind 0.01€
+AL_COMET posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Mattheus66 raises 0.07€ to 0.09€ and is all-in
+yeye971 folds
+Ricoce folds
+AL_COMET calls 0.01€ and is all-in
+[b]FLOP[/b] 
+[QD] [AD] [9D]
+[b]TURN[/b] 
+[QD] [AD] [9D] [JD]
+[b]RIVER[/b] 
+[QD] [AD] [9D] [JD] [QC]
+[b]SHOW DOWN[/b]
+AL_COMET shows 
+[JC] [3H] (Two pairs : Queens and Jacks)
+Mattheus66 shows 
+[9H] [10C] (Two pairs : Queens and 9)
+Mattheus66 collected 0.06€ from side pot 1
+AL_COMET collected 0.07€ from main pot
+[b]SUMMARY[/b]
+Total pot 0.13€ | No rake
+Board: 
+[QD] [AD] [9D] [JD] [QC]
+Seat 4: AL_COMET (big blind) showed 
+[JC] [3H] and won 0.07€ with Two pairs : Queens and Jacks
+Seat 5: Mattheus66 showed 
+[9H] [10C] and won 0.06€ with Two pairs : Queens and 9
+
+
+Winamax Poker - CashGame - HandId: #8276756-2392-1450334482 - Holdem no limit (0.01€/0.02€) - 2015/12/17 06:41:22 UTC
+Table: 'SHORT TRACK 0,10€' 5-max (real money) Seat #3 is the button
+Seat 1: yeye971 (0.33€)
+Seat 3: Ricoce (0.40€)
+Seat 4: AL_COMET (0.07€)
+Seat 5: Mattheus66 (0.06€)
+[b]ANTE/BLINDS[/b]
+AL_COMET posts small blind 0.01€
+Mattheus66 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+yeye971 folds
+Ricoce calls 0.02€
+AL_COMET folds
+Mattheus66 raises 0.04€ to 0.06€ and is all-in
+Ricoce calls 0.04€
+[b]FLOP[/b] 
+[QC] [7S] [8D]
+[b]TURN[/b] 
+[QC] [7S] [8D] [2D]
+[b]RIVER[/b] 
+[QC] [7S] [8D] [2D] [7C]
+[b]SHOW DOWN[/b]
+Ricoce shows 
+[JH] [2H] (Two pairs : 7 and 2)
+Mattheus66 shows 
+[3H] [3S] (Two pairs : 7 and 3)
+Mattheus66 collected 0.12€ from pot
+[b]SUMMARY[/b]
+Total pot 0.12€ | Rake 0.01€
+Board: 
+[QC] [7S] [8D] [2D] [7C]
+Seat 3: Ricoce (button) mucked
+Seat 5: Mattheus66 (big blind) showed 
+[3H] [3S] and won 0.12€ with Two pairs : 7 and 3
+
+
+Winamax Poker - CashGame - HandId: #8276731-690-1450334482 - Holdem no limit (10€/20€) - 2015/12/17 06:41:22 UTC
+Table: 'SHORT TRACK 100€' 5-max (real money) Seat #3 is the button
+Seat 1: FRRUGBY76 (207€)
+Seat 3: 123COUSCOUS (493.50€)
+Seat 5: Nimeta (194.50€)
+[b]ANTE/BLINDS[/b]
+Nimeta posts small blind 10€
+FRRUGBY76 posts big blind 20€
+[b]PRE-FLOP[/b] 
+123COUSCOUS folds
+Nimeta calls 10€
+FRRUGBY76 checks
+[b]FLOP[/b] 
+[8D] [5C] [4C]
+Nimeta checks
+FRRUGBY76 checks
+[b]TURN[/b] 
+[8D] [5C] [4C] [JD]
+Nimeta bets 30€
+FRRUGBY76 calls 30€
+[b]RIVER[/b] 
+[8D] [5C] [4C] [JD] [9S]
+Nimeta bets 144.50€ and is all-in
+FRRUGBY76 folds
+Nimeta collected 241.50€ from pot
+[b]SUMMARY[/b]
+Total pot 241.50€ | Rake 3€
+Board: 
+[8D] [5C] [4C] [JD] [9S]
+Seat 5: Nimeta (small blind) won 241.50€
+
+
+Winamax Poker - CashGame - HandId: #8274459-4338-1450334491 - Holdem no limit (0.01€/0.02€) - 2015/12/17 06:41:31 UTC
+Table: 'SHORT TRACK 0,10€ 02' 5-max (real money) Seat #5 is the button
+Seat 1: anais 343 (0.05€)
+Seat 2: 6LO7LO (0.10€)
+Seat 3: Jessie974run (0.39€)
+Seat 4: LION59144 (0.16€)
+Seat 5: rastakoer 35 (0.04€)
+[b]ANTE/BLINDS[/b]
+anais 343 posts small blind 0.01€
+6LO7LO posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Jessie974run folds
+LION59144 folds
+rastakoer 35 raises 0.02€ to 0.04€ and is all-in
+anais 343 raises 0.01€ to 0.05€ and is all-in
+6LO7LO calls 0.03€
+[b]FLOP[/b] 
+[10S] [4D] [AD]
+[b]TURN[/b] 
+[10S] [4D] [AD] [5H]
+[b]RIVER[/b] 
+[10S] [4D] [AD] [5H] [7S]
+[b]SHOW DOWN[/b]
+anais 343 shows 
+[10H] [JD] (One pair : Tens)
+rastakoer 35 shows 
+[QC] [QH] (One pair : Queens)
+6LO7LO shows 
+[8S] [AH] (One pair : Aces)
+6LO7LO collected 0.13€ from pot
+[b]SUMMARY[/b]
+Total pot 0.13€ | Rake 0.01€
+Board: 
+[10S] [4D] [AD] [5H] [7S]
+Seat 1: anais 343 (small blind) mucked
+Seat 2: 6LO7LO (big blind) showed 
+[8S] [AH] and won 0.13€ with One pair : Aces
+Seat 5: rastakoer 35 (button) mucked
+
+

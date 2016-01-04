@@ -1,0 +1,267 @@
+Winamax Poker - CashGame - HandId: #8280096-400-1450351896 - Holdem no limit (0.02€/0.05€) - 2015/12/17 11:31:36 UTC
+Table: 'SHORT TRACK 0,25€' 5-max (real money) Seat #5 is the button
+Seat 1: davi1207 (0.59€)
+Seat 2: AngelDream29 (1.52€)
+Seat 3: RIOOLO (0.25€)
+Seat 4: Leftboy shh (0.22€)
+Seat 5: NO JOKE 75 (0.47€)
+[b]ANTE/BLINDS[/b]
+davi1207 posts small blind 0.02€
+AngelDream29 posts big blind 0.05€
+[b]PRE-FLOP[/b] 
+RIOOLO folds
+Leftboy shh folds
+NO JOKE 75 folds
+davi1207 calls 0.03€
+AngelDream29 checks
+[b]FLOP[/b] 
+[7D] [2D] [JD]
+davi1207 checks
+AngelDream29 checks
+[b]TURN[/b] 
+[7D] [2D] [JD] [2H]
+davi1207 bets 0.05€
+AngelDream29 calls 0.05€
+[b]RIVER[/b] 
+[7D] [2D] [JD] [2H] [8D]
+davi1207 checks
+AngelDream29 checks
+[b]SHOW DOWN[/b]
+davi1207 shows 
+[AS] [QC] (One pair : 2)
+AngelDream29 shows 
+[2C] [KC] (Trips of 2)
+AngelDream29 collected 0.19€ from pot
+[b]SUMMARY[/b]
+Total pot 0.19€ | Rake 0.01€
+Board: 
+[7D] [2D] [JD] [2H] [8D]
+Seat 1: davi1207 (small blind) mucked
+Seat 2: AngelDream29 (big blind) showed 
+[2C] [KC] and won 0.19€ with Trips of 2
+
+
+Winamax Poker - CashGame - HandId: #8280371-33-1450351894 - Holdem no limit (3€/6€) - 2015/12/17 11:31:34 UTC
+Table: 'SHORT TRACK 30€ 03' 5-max (real money) Seat #2 is the button
+Seat 2: VHC84 (50.22€)
+Seat 5: skykoke (167€)
+[b]ANTE/BLINDS[/b]
+VHC84 posts small blind 3€
+skykoke posts big blind 6€
+[b]PRE-FLOP[/b] 
+VHC84 raises 44.22€ to 50.22€ and is all-in
+skykoke folds
+VHC84 collected 56.22€ from pot
+[b]SUMMARY[/b]
+Total pot 56.22€ | No rake
+Seat 2: VHC84 (small blind) (button) won 56.22€
+
+
+Winamax Poker - CashGame - HandId: #8276756-3015-1450351892 - Holdem no limit (0.01€/0.02€) - 2015/12/17 11:31:32 UTC
+Table: 'SHORT TRACK 0,10€' 5-max (real money) Seat #3 is the button
+Seat 1: Alicia83 (0.13€)
+Seat 2: WuForever (0.10€)
+Seat 3: Kevin220591 (0.16€)
+Seat 4: isuldir1 (0.44€)
+Seat 5: fbi86 (0.64€)
+[b]ANTE/BLINDS[/b]
+isuldir1 posts small blind 0.01€
+fbi86 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Alicia83 calls 0.02€
+WuForever folds
+Kevin220591 folds
+isuldir1 calls 0.01€
+fbi86 checks
+[b]FLOP[/b] 
+[3C] [KD] [2H]
+isuldir1 checks
+fbi86 bets 0.02€
+Alicia83 folds
+isuldir1 raises 0.02€ to 0.04€
+fbi86 calls 0.02€
+[b]TURN[/b] 
+[3C] [KD] [2H] [6C]
+isuldir1 checks
+fbi86 checks
+[b]RIVER[/b] 
+[3C] [KD] [2H] [6C] [4D]
+isuldir1 bets 0.11€
+fbi86 folds
+isuldir1 collected 0.24€ from pot
+[b]SUMMARY[/b]
+Total pot 0.24€ | Rake 0.01€
+Board: 
+[3C] [KD] [2H] [6C] [4D]
+Seat 4: isuldir1 (small blind) won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #8274459-4782-1450351891 - Holdem no limit (0.01€/0.02€) - 2015/12/17 11:31:31 UTC
+Table: 'SHORT TRACK 0,10€ 02' 5-max (real money) Seat #1 is the button
+Seat 1: golio49 (0.72€)
+Seat 2: BLACKOUT9276 (0.53€)
+Seat 4: WuForever (0.15€)
+Seat 5: Iuly09 (0.18€)
+[b]ANTE/BLINDS[/b]
+BLACKOUT9276 posts small blind 0.01€
+WuForever posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Iuly09 folds
+golio49 calls 0.02€
+BLACKOUT9276 folds
+WuForever checks
+[b]FLOP[/b] 
+[QH] [AS] [5H]
+WuForever bets 0.05€
+golio49 calls 0.05€
+[b]TURN[/b] 
+[QH] [AS] [5H] [8C]
+WuForever bets 0.08€ and is all-in
+golio49 calls 0.08€
+[b]RIVER[/b] 
+[QH] [AS] [5H] [8C] [2C]
+[b]SHOW DOWN[/b]
+golio49 shows 
+[10D] [KS] (High card : Ace)
+WuForever shows 
+[AH] [5C] (Two pairs : Aces and 5)
+WuForever collected 0.29€ from pot
+[b]SUMMARY[/b]
+Total pot 0.29€ | Rake 0.02€
+Board: 
+[QH] [AS] [5H] [8C] [2C]
+Seat 1: golio49 (button) mucked
+Seat 4: WuForever (big blind) showed 
+[AH] [5C] and won 0.29€ with Two pairs : Aces and 5
+
+
+Winamax Poker - CashGame - HandId: #8280592-24-1450351891 - Holdem no limit (10€/20€) - 2015/12/17 11:31:31 UTC
+Table: 'SHORT TRACK 100€ 06' 5-max (real money) Seat #3 is the button
+Seat 1: joko31 (285€)
+Seat 2: VHC84 (130€)
+Seat 3: LuckyKruasan (100€)
+Seat 4: GOAL54 (80€)
+Seat 5: Aspok07 (126.75€)
+[b]ANTE/BLINDS[/b]
+GOAL54 posts small blind 10€
+Aspok07 posts big blind 20€
+[b]PRE-FLOP[/b] 
+joko31 folds
+VHC84 folds
+LuckyKruasan folds
+GOAL54 raises 60€ to 80€ and is all-in
+Aspok07 calls 60€
+[b]FLOP[/b] 
+[6C] [QS] [5C]
+[b]TURN[/b] 
+[6C] [QS] [5C] [5D]
+[b]RIVER[/b] 
+[6C] [QS] [5C] [5D] [AC]
+[b]SHOW DOWN[/b]
+GOAL54 shows 
+[QD] [JD] (Two pairs : Queens and 5)
+Aspok07 shows 
+[9S] [QH] (Two pairs : Queens and 5)
+Aspok07 collected 78€ from pot
+GOAL54 collected 78€ from pot
+[b]SUMMARY[/b]
+Total pot 156€ | Rake 4€
+Board: 
+[6C] [QS] [5C] [5D] [AC]
+Seat 4: GOAL54 (small blind) showed 
+[QD] [JD] and won 78€ with Two pairs : Queens and 5
+Seat 5: Aspok07 (big blind) showed 
+[9S] [QH] and won 78€ with Two pairs : Queens and 5
+
+
+Winamax Poker - CashGame - HandId: #8280144-642-1450351889 - Holdem no limit (0.50€/1€) - 2015/12/17 11:31:29 UTC
+Table: 'SHORT TRACK 5€' 5-max (real money) Seat #3 is the button
+Seat 2: Crucifer (45.77€)
+Seat 3: Maxtilolz (21.72€)
+Seat 4: Milann24 (4€)
+Seat 5: supra30 (26.13€)
+[b]ANTE/BLINDS[/b]
+Milann24 posts small blind 0.50€
+Crucifer posts big blind 1€
+[b]PRE-FLOP[/b] 
+Maxtilolz raises 1€ to 2€
+Milann24 folds
+Crucifer calls 1€
+[b]FLOP[/b] 
+[3S] [7H] [AD]
+Crucifer checks
+Maxtilolz bets 1€
+Crucifer calls 1€
+[b]TURN[/b] 
+[3S] [7H] [AD] [7S]
+Crucifer checks
+Maxtilolz bets 3.25€
+Crucifer calls 3.25€
+[b]RIVER[/b] 
+[3S] [7H] [AD] [7S] [JD]
+Crucifer checks
+Maxtilolz bets 6.50€
+Crucifer calls 6.50€
+[b]SHOW DOWN[/b]
+Crucifer shows 
+[10S] [AC] (Two pairs : Aces and 7)
+Maxtilolz shows 
+[4D] [AH] (Two pairs : Aces and 7)
+Maxtilolz collected 12.16€ from pot
+Crucifer collected 12.15€ from pot
+[b]SUMMARY[/b]
+Total pot 24.31€ | Rake 1.69€
+Board: 
+[3S] [7H] [AD] [7S] [JD]
+Seat 2: Crucifer (big blind) showed 
+[10S] [AC] and won 12.15€ with Two pairs : Aces and 7
+Seat 3: Maxtilolz (button) showed 
+[4D] [AH] and won 12.16€ with Two pairs : Aces and 7
+
+
+Winamax Poker - CashGame - HandId: #8280142-192-1450351889 - Holdem no limit (0.10€/0.20€) - 2015/12/17 11:31:29 UTC
+Table: 'SHORT TRACK 1€' 5-max (real money) Seat #4 is the button
+Seat 2: FullOfSpace (16.35€)
+Seat 4: 38MOYS (1.30€)
+[b]ANTE/BLINDS[/b]
+38MOYS posts small blind 0.10€
+FullOfSpace posts big blind 0.20€
+[b]PRE-FLOP[/b] 
+38MOYS raises 1.10€ to 1.30€ and is all-in
+FullOfSpace calls 1.10€
+[b]FLOP[/b] 
+[3D] [9D] [10H]
+[b]TURN[/b] 
+[3D] [9D] [10H] [2D]
+[b]RIVER[/b] 
+[3D] [9D] [10H] [2D] [3S]
+[b]SHOW DOWN[/b]
+FullOfSpace shows 
+[8C] [AS] (One pair : 3)
+38MOYS shows 
+[2H] [AC] (Two pairs : 3 and 2)
+38MOYS collected 2.43€ from pot
+[b]SUMMARY[/b]
+Total pot 2.43€ | Rake 0.17€
+Board: 
+[3D] [9D] [10H] [2D] [3S]
+Seat 2: FullOfSpace (big blind) mucked
+Seat 4: 38MOYS (small blind) (button) showed 
+[2H] [AC] and won 2.43€ with Two pairs : 3 and 2
+
+
+Winamax Poker - CashGame - HandId: #8280371-32-1450351887 - Holdem no limit (3€/6€) - 2015/12/17 11:31:27 UTC
+Table: 'SHORT TRACK 30€ 03' 5-max (real money) Seat #5 is the button
+Seat 2: VHC84 (47.22€)
+Seat 5: skykoke (170€)
+[b]ANTE/BLINDS[/b]
+skykoke posts small blind 3€
+VHC84 posts big blind 6€
+[b]PRE-FLOP[/b] 
+skykoke folds
+VHC84 collected 9€ from pot
+[b]SUMMARY[/b]
+Total pot 9€ | No rake
+Seat 2: VHC84 (big blind) won 9€
+
+

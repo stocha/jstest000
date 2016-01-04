@@ -19,12 +19,22 @@ var pullfiles=function(){
     var fl=files.length;
     var i=0;
 
+    var lines="";
     while ( i < fl) {
         // localize file var in the loop
         var file = files[i];
-        alert(file.name);
+        //alert(file.name);
+        lines+=file.name+";\n";
         i++;
     }    
+
+ 	var a = document.createElement("a");
+    var file = new Blob([lines], {type: 'text/plain'});
+    a.href = URL.createObjectURL(file);
+    a.download = "winamax_json.txt";
+    a.click();
+
+
 }
 
 // set the input element onchange to call pullfiles

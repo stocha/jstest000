@@ -1,0 +1,144 @@
+Winamax Poker - CashGame - HandId: #8277574-169-1450275093 - Holdem no limit (0.01€/0.02€) - 2015/12/16 14:11:33 UTC
+Table: 'SHORT TRACK 0,10€ 06' 5-max (real money) Seat #5 is the button
+Seat 1: gioty73 (0.12€)
+Seat 2: Leoneedas (0.46€)
+Seat 4: nowasol (0.10€)
+Seat 5: fab21myl (0.91€)
+[b]ANTE/BLINDS[/b]
+gioty73 posts small blind 0.01€
+Leoneedas posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+nowasol raises 0.02€ to 0.04€
+fab21myl folds
+gioty73 raises 0.08€ to 0.12€ and is all-in
+Leoneedas folds
+nowasol calls 0.06€ and is all-in
+[b]FLOP[/b] 
+[3C] [3H] [JD]
+[b]TURN[/b] 
+[3C] [3H] [JD] [QS]
+[b]RIVER[/b] 
+[3C] [3H] [JD] [QS] [8S]
+[b]SHOW DOWN[/b]
+gioty73 shows 
+[9C] [6C] (One pair : 3)
+nowasol shows 
+[2H] [QH] (Two pairs : Queens and 3)
+nowasol collected 0.21€ from main pot
+gioty73 collected 0.02€ from side pot 1
+[b]SUMMARY[/b]
+Total pot 0.23€ | Rake 0.01€
+Board: 
+[3C] [3H] [JD] [QS] [8S]
+Seat 1: gioty73 (small blind) showed 
+[9C] [6C] and won 0.02€ with One pair : 3
+Seat 4: nowasol showed 
+[2H] [QH] and won 0.21€ with Two pairs : Queens and 3
+
+
+Winamax Poker - CashGame - HandId: #8277642-294-1450275091 - Holdem no limit (0.50€/1€) - 2015/12/16 14:11:31 UTC
+Table: 'SHORT TRACK 5€ 03' 5-max (real money) Seat #2 is the button
+Seat 1: UPUSHLFOLD (5€)
+Seat 2: chipstor (21.98€)
+[b]ANTE/BLINDS[/b]
+chipstor posts small blind 0.50€
+UPUSHLFOLD posts big blind 1€
+[b]PRE-FLOP[/b] 
+chipstor folds
+UPUSHLFOLD collected 1.50€ from pot
+[b]SUMMARY[/b]
+Total pot 1.50€ | No rake
+Seat 1: UPUSHLFOLD (big blind) won 1.50€
+
+
+Winamax Poker - CashGame - HandId: #8276789-674-1450275090 - Holdem no limit (0.50€/1€) - 2015/12/16 14:11:30 UTC
+Table: 'SHORT TRACK 5€' 5-max (real money) Seat #1 is the button
+Seat 1: UPUSHLFOLD (102.18€)
+Seat 2: A.Kournikova (6.37€)
+Seat 4: Mr Chattman (9.75€)
+Seat 5: loukas77610 (5€)
+[b]ANTE/BLINDS[/b]
+A.Kournikova posts small blind 0.50€
+Mr Chattman posts big blind 1€
+loukas77610 posts small blind 0.50€ out of position
+[b]PRE-FLOP[/b] 
+loukas77610 raises 4€ to 5€ and is all-in
+UPUSHLFOLD raises 97.18€ to 102.18€ and is all-in
+A.Kournikova folds
+Mr Chattman folds
+[b]FLOP[/b] 
+[9H] [7D] [6D]
+[b]TURN[/b] 
+[9H] [7D] [6D] [AC]
+[b]RIVER[/b] 
+[9H] [7D] [6D] [AC] [7C]
+[b]SHOW DOWN[/b]
+loukas77610 shows 
+[3H] [6H] (Two pairs : 7 and 6)
+UPUSHLFOLD shows 
+[AD] [QH] (Two pairs : Aces and 7)
+UPUSHLFOLD collected 107.96€ from pot
+[b]SUMMARY[/b]
+Total pot 107.96€ | Rake 0.72€
+Board: 
+[9H] [7D] [6D] [AC] [7C]
+Seat 1: UPUSHLFOLD (button) showed 
+[AD] [QH] and won 107.96€ with Two pairs : Aces and 7
+Seat 5: loukas77610 mucked
+
+
+Winamax Poker - CashGame - HandId: #8277597-240-1450275090 - Holdem no limit (0.01€/0.02€) - 2015/12/16 14:11:30 UTC
+Table: 'SHORT TRACK 0,10€ 08' 5-max (real money) Seat #2 is the button
+Seat 1: enngie8&9 (0.17€)
+Seat 2: Picsous87 (0.57€)
+Seat 4: Mrjeremya (0.10€)
+Seat 5: Crazyrider (0.21€)
+[b]ANTE/BLINDS[/b]
+Mrjeremya posts small blind 0.01€
+Crazyrider posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+enngie8&9 folds
+Picsous87 raises 0.04€ to 0.06€
+Mrjeremya folds
+Crazyrider folds
+Picsous87 collected 0.09€ from pot
+[b]SUMMARY[/b]
+Total pot 0.09€ | No rake
+Seat 2: Picsous87 (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #8277405-514-1450275089 - Holdem no limit (0.50€/1€) - 2015/12/16 14:11:29 UTC
+Table: 'SHORT TRACK 5€ 02' 5-max (real money) Seat #2 is the button
+Seat 1: UPUSHLFOLD (16.63€)
+Seat 2: Clesar (13.94€)
+[b]ANTE/BLINDS[/b]
+Clesar posts small blind 0.50€
+UPUSHLFOLD posts big blind 1€
+[b]PRE-FLOP[/b] 
+Clesar raises 1€ to 2€
+UPUSHLFOLD raises 14.63€ to 16.63€ and is all-in
+Clesar folds
+UPUSHLFOLD collected 18.63€ from pot
+[b]SUMMARY[/b]
+Total pot 18.63€ | No rake
+Seat 1: UPUSHLFOLD (big blind) won 18.63€
+
+
+Winamax Poker - CashGame - HandId: #8276789-673-1450275084 - Holdem no limit (0.50€/1€) - 2015/12/16 14:11:24 UTC
+Table: 'SHORT TRACK 5€' 5-max (real money) Seat #5 is the button
+Seat 1: UPUSHLFOLD (102.68€)
+Seat 2: A.Kournikova (5.87€)
+Seat 4: Mr Chattman (9.75€)
+Seat 5: loukas77610 (5€)
+[b]ANTE/BLINDS[/b]
+UPUSHLFOLD posts small blind 0.50€
+A.Kournikova posts big blind 1€
+[b]PRE-FLOP[/b] 
+Mr Chattman folds
+UPUSHLFOLD folds
+A.Kournikova collected 1.50€ from pot
+[b]SUMMARY[/b]
+Total pot 1.50€ | No rake
+Seat 2: A.Kournikova (big blind) won 1.50€
+
+

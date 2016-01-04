@@ -1,0 +1,370 @@
+Winamax Poker - CashGame - HandId: #8277642-277-1450274872 - Holdem no limit (0.50€/1€) - 2015/12/16 14:07:52 UTC
+Table: 'SHORT TRACK 5€ 03' 5-max (real money) Seat #1 is the button
+Seat 1: UPUSHLFOLD (10.13€)
+Seat 2: chipstor (12.83€)
+[b]ANTE/BLINDS[/b]
+UPUSHLFOLD posts small blind 0.50€
+chipstor posts big blind 1€
+[b]PRE-FLOP[/b] 
+UPUSHLFOLD raises 2€ to 3€
+chipstor folds
+UPUSHLFOLD collected 4€ from pot
+[b]SUMMARY[/b]
+Total pot 4€ | No rake
+Seat 1: UPUSHLFOLD (small blind) (button) won 4€
+
+
+Winamax Poker - CashGame - HandId: #8277597-192-1450274173 - Holdem no limit (0.01€/0.02€) - 2015/12/16 13:56:13 UTC
+Table: 'SHORT TRACK 0,10€ 08' 5-max (real money) Seat #3 is the button
+Seat 1: PjOao (0.12€)
+Seat 2: Picsous87 (0.10€)
+Seat 3: Navlo (0.15€)
+Seat 4: CosmicSista (0.72€)
+Seat 5: Crazyrider (0.31€)
+[b]ANTE/BLINDS[/b]
+CosmicSista posts small blind 0.01€
+Crazyrider posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+PjOao calls 0.02€
+Picsous87 folds
+Navlo folds
+CosmicSista folds
+Crazyrider checks
+[b]FLOP[/b] 
+[4D] [3S] [4H]
+Crazyrider checks
+PjOao bets 0.05€
+Crazyrider calls 0.05€
+[b]TURN[/b] 
+[4D] [3S] [4H] [3H]
+Crazyrider checks
+PjOao checks
+[b]RIVER[/b] 
+[4D] [3S] [4H] [3H] [3C]
+Crazyrider bets 0.15€
+PjOao calls 0.05€ and is all-in
+[b]SHOW DOWN[/b]
+PjOao shows 
+[AD] [QH] (Full of 3 and 4)
+Crazyrider shows 
+[AC] [7S] (Full of 3 and 4)
+Crazyrider collected 0.22€ from side pot 1
+PjOao collected 0.11€ from main pot
+[b]SUMMARY[/b]
+Total pot 0.33€ | Rake 0.02€
+Board: 
+[4D] [3S] [4H] [3H] [3C]
+Seat 1: PjOao showed 
+[AD] [QH] and won 0.11€ with Full of 3 and 4
+Seat 5: Crazyrider (big blind) showed 
+[AC] [7S] and won 0.22€ with Full of 3 and 4
+
+
+Winamax Poker - CashGame - HandId: #8277192-348-1450274195 - Holdem no limit (0.01€/0.02€) - 2015/12/16 13:56:35 UTC
+Table: 'SHORT TRACK 0,10€ 07' 5-max (real money) Seat #1 is the button
+Seat 1: peck94 (0.28€)
+Seat 2: soso4530 (0.09€)
+Seat 3: NSB3 (0.43€)
+Seat 4: Namastef036 (0.26€)
+Seat 5: Walach (0.10€)
+[b]ANTE/BLINDS[/b]
+soso4530 posts small blind 0.01€
+NSB3 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Namastef036 folds
+Walach raises 0.08€ to 0.10€ and is all-in
+peck94 calls 0.10€
+soso4530 folds
+NSB3 calls 0.08€
+[b]FLOP[/b] 
+[6H] [8S] [5S]
+NSB3 checks
+peck94 bets 0.16€
+NSB3 folds
+[b]TURN[/b] 
+[6H] [8S] [5S] [9H]
+[b]RIVER[/b] 
+[6H] [8S] [5S] [9H] [QH]
+[b]SHOW DOWN[/b]
+Walach shows 
+[KS] [2H] (High card : King)
+peck94 shows 
+[JS] [6S] (One pair : 6)
+peck94 collected 0.45€ from pot
+[b]SUMMARY[/b]
+Total pot 0.45€ | Rake 0.02€
+Board: 
+[6H] [8S] [5S] [9H] [QH]
+Seat 1: peck94 (button) showed 
+[JS] [6S] and won 0.45€ with One pair : 6
+Seat 5: Walach mucked
+
+
+Winamax Poker - CashGame - HandId: #8277574-144-1450274198 - Holdem no limit (0.01€/0.02€) - 2015/12/16 13:56:38 UTC
+Table: 'SHORT TRACK 0,10€ 06' 5-max (real money) Seat #5 is the button
+Seat 1: gioty73 (0.10€)
+Seat 2: hitza marco (0.40€)
+Seat 3: foulse7 (0.39€)
+Seat 4: CosmicSista (0.43€)
+Seat 5: fab21myl (0.22€)
+[b]ANTE/BLINDS[/b]
+hitza marco posts small blind 0.01€
+foulse7 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+CosmicSista folds
+fab21myl calls 0.02€
+hitza marco folds
+foulse7 checks
+[b]FLOP[/b] 
+[5S] [5D] [KC]
+foulse7 checks
+fab21myl checks
+[b]TURN[/b] 
+[5S] [5D] [KC] [2H]
+foulse7 bets 0.02€
+fab21myl folds
+foulse7 collected 0.07€ from pot
+[b]SUMMARY[/b]
+Total pot 0.07€ | No rake
+Board: 
+[5S] [5D] [KC] [2H]
+Seat 3: foulse7 (big blind) won 0.07€
+
+
+Winamax Poker - CashGame - HandId: #8277123-593-1450274202 - Holdem no limit (0.01€/0.02€) - 2015/12/16 13:56:42 UTC
+Table: 'SHORT TRACK 0,10€ 05' 5-max (real money) Seat #1 is the button
+Seat 1: Jery80 (0.09€)
+Seat 2: closed00 (0.23€)
+Seat 3: james02100 (0.08€)
+Seat 4: Leoneedas (0.07€)
+Seat 5: ueston952 (0.10€)
+[b]ANTE/BLINDS[/b]
+closed00 posts small blind 0.01€
+james02100 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Leoneedas folds
+ueston952 folds
+Jery80 raises 0.07€ to 0.09€ and is all-in
+closed00 folds
+james02100 folds
+Jery80 collected 0.12€ from pot
+[b]SUMMARY[/b]
+Total pot 0.12€ | No rake
+Seat 1: Jery80 (button) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #8276788-1245-1450274207 - Holdem no limit (0.25€/0.50€) - 2015/12/16 13:56:47 UTC
+Table: 'SHORT TRACK 2,50€' 5-max (real money) Seat #3 is the button
+Seat 1: loukas77610 (22.15€)
+Seat 2: stone-_-park (5.61€)
+Seat 3: pasgrossier (27.86€)
+Seat 4: zlatan92i (4.83€)
+Seat 5: gantelet06 (13.96€)
+[b]ANTE/BLINDS[/b]
+zlatan92i posts small blind 0.25€
+gantelet06 posts big blind 0.50€
+[b]PRE-FLOP[/b] 
+loukas77610 folds
+stone-_-park folds
+pasgrossier folds
+zlatan92i folds
+gantelet06 collected 0.75€ from pot
+[b]SUMMARY[/b]
+Total pot 0.75€ | No rake
+Seat 5: gantelet06 (big blind) won 0.75€
+
+
+Winamax Poker - CashGame - HandId: #8277480-283-1450274208 - Holdem no limit (0.01€/0.02€) - 2015/12/16 13:56:48 UTC
+Table: 'SHORT TRACK 0,10€ 03' 5-max (real money) Seat #5 is the button
+Seat 1: xLeGagnantx (0.44€)
+Seat 2: fry74 (0.40€)
+Seat 3: kazo974 (0.10€)
+Seat 5: A11-1n (0.22€)
+[b]ANTE/BLINDS[/b]
+xLeGagnantx posts small blind 0.01€
+fry74 posts big blind 0.02€
+kazo974 posts big blind 0.02€ out of position
+[b]PRE-FLOP[/b] 
+kazo974 checks
+A11-1n raises 0.02€ to 0.04€
+xLeGagnantx calls 0.03€
+fry74 raises 0.36€ to 0.40€ and is all-in
+kazo974 calls 0.08€ and is all-in
+A11-1n calls 0.18€ and is all-in
+xLeGagnantx folds
+[b]FLOP[/b] 
+[3S] [KC] [10D]
+[b]TURN[/b] 
+[3S] [KC] [10D] [9H]
+[b]RIVER[/b] 
+[3S] [KC] [10D] [9H] [2C]
+[b]SHOW DOWN[/b]
+kazo974 shows 
+[JH] [6H] (High card : King)
+fry74 shows 
+[5S] [5D] (One pair : 5)
+A11-1n shows 
+[KS] [KD] (Trips of Kings)
+A11-1n collected 0.54€ from main pot
+fry74 collected 0.18€ from side pot 1
+[b]SUMMARY[/b]
+Total pot 0.72€ | Rake 0.04€
+Board: 
+[3S] [KC] [10D] [9H] [2C]
+Seat 2: fry74 (big blind) showed 
+[5S] [5D] and won 0.18€ with One pair : 5
+Seat 3: kazo974 mucked
+Seat 5: A11-1n (button) showed 
+[KS] [KD] and won 0.54€ with Trips of Kings
+
+
+Winamax Poker - CashGame - HandId: #8276765-309-1450274211 - Holdem no limit (0.15€/0.30€) - 2015/12/16 13:56:51 UTC
+Table: 'SHORT TRACK 1,50€' 5-max (real money) Seat #2 is the button
+Seat 2: Bashunga (4.18€)
+Seat 3: gantelet06 (6.03€)
+Seat 5: fab21myl (1.76€)
+[b]ANTE/BLINDS[/b]
+gantelet06 posts small blind 0.15€
+fab21myl posts big blind 0.30€
+[b]PRE-FLOP[/b] 
+Bashunga raises 0.30€ to 0.60€
+gantelet06 folds
+fab21myl raises 1.16€ to 1.76€ and is all-in
+Bashunga calls 1.16€
+[b]FLOP[/b] 
+[2C] [10D] [8S]
+[b]TURN[/b] 
+[2C] [10D] [8S] [2H]
+[b]RIVER[/b] 
+[2C] [10D] [8S] [2H] [5C]
+[b]SHOW DOWN[/b]
+fab21myl shows 
+[AS] [7H] (One pair : 2)
+Bashunga shows 
+[4S] [5S] (Two pairs : 5 and 2)
+Bashunga collected 3.43€ from pot
+[b]SUMMARY[/b]
+Total pot 3.43€ | Rake 0.24€
+Board: 
+[2C] [10D] [8S] [2H] [5C]
+Seat 2: Bashunga (button) showed 
+[4S] [5S] and won 3.43€ with Two pairs : 5 and 2
+Seat 5: fab21myl (big blind) mucked
+
+
+Winamax Poker - CashGame - HandId: #8277746-1-1450274216 - Holdem no limit (0.01€/0.02€) - 2015/12/16 13:56:56 UTC
+Table: 'SHORT TRACK 0,10€ 04' 5-max (real money) Seat #1 is the button
+Seat 1: Enzodu13160 (0.10€)
+Seat 5: Yannis-A3 (0.10€)
+[b]ANTE/BLINDS[/b]
+Enzodu13160 posts small blind 0.01€
+Yannis-A3 posts big blind 0.02€
+[b]PRE-FLOP[/b] 
+Enzodu13160 raises 0.02€ to 0.04€
+Yannis-A3 calls 0.02€
+[b]FLOP[/b] 
+[8S] [7H] [JD]
+Yannis-A3 bets 0.06€ and is all-in
+Enzodu13160 calls 0.06€ and is all-in
+[b]TURN[/b] 
+[8S] [7H] [JD] [4S]
+[b]RIVER[/b] 
+[8S] [7H] [JD] [4S] [KH]
+[b]SHOW DOWN[/b]
+Yannis-A3 shows 
+[5C] [10D] (High card : King)
+Enzodu13160 shows 
+[7D] [7S] (Trips of 7)
+Enzodu13160 collected 0.19€ from pot
+[b]SUMMARY[/b]
+Total pot 0.19€ | Rake 0.01€
+Board: 
+[8S] [7H] [JD] [4S] [KH]
+Seat 1: Enzodu13160 (small blind) (button) showed 
+[7D] [7S] and won 0.19€ with Trips of 7
+Seat 5: Yannis-A3 (big blind) mucked
+
+
+Winamax Poker - CashGame - HandId: #8277782-19-1450274220 - Holdem no limit (5€/10€) - 2015/12/16 13:57:00 UTC
+Table: 'SHORT TRACK 50€ 06' 5-max (real money) Seat #1 is the button
+Seat 1: BIEBERLOVE (170.50€)
+Seat 2: Moouahhh (93.50€)
+Seat 3: mrotsim (92.50€)
+[b]ANTE/BLINDS[/b]
+Moouahhh posts small blind 5€
+mrotsim posts big blind 10€
+[b]PRE-FLOP[/b] 
+BIEBERLOVE folds
+Moouahhh raises 83.50€ to 93.50€ and is all-in
+mrotsim folds
+Moouahhh collected 103.50€ from pot
+[b]SUMMARY[/b]
+Total pot 103.50€ | No rake
+Seat 2: Moouahhh (small blind) won 103.50€
+
+
+Winamax Poker - CashGame - HandId: #8273450-2804-1450274225 - Holdem no limit (0.02€/0.05€) - 2015/12/16 13:57:05 UTC
+Table: 'SHORT TRACK 0,25€' 5-max (real money) Seat #3 is the button
+Seat 1: ShipItBrudda (1.11€)
+Seat 2: freefate (0.25€)
+Seat 3: Picsous87 (0.93€)
+[b]ANTE/BLINDS[/b]
+ShipItBrudda posts small blind 0.02€
+freefate posts big blind 0.05€
+[b]PRE-FLOP[/b] 
+Picsous87 raises 0.88€ to 0.93€ and is all-in
+ShipItBrudda folds
+freefate folds
+Picsous87 collected 1€ from pot
+[b]SUMMARY[/b]
+Total pot 1€ | No rake
+Seat 3: Picsous87 (button) won 1€
+
+
+Winamax Poker - CashGame - HandId: #8277642-246-1450274225 - Holdem no limit (0.50€/1€) - 2015/12/16 13:57:05 UTC
+Table: 'SHORT TRACK 5€ 03' 5-max (real money) Seat #4 is the button
+Seat 1: UPUSHLFOLD (6.09€)
+Seat 4: Lomic87 (41.69€)
+Seat 5: John_Moss (10.08€)
+[b]ANTE/BLINDS[/b]
+John_Moss posts small blind 0.50€
+UPUSHLFOLD posts big blind 1€
+[b]PRE-FLOP[/b] 
+Lomic87 calls 1€
+John_Moss raises 1€ to 2€
+UPUSHLFOLD folds
+Lomic87 calls 1€
+[b]FLOP[/b] 
+[9H] [3H] [4S]
+John_Moss bets 1€
+Lomic87 calls 1€
+[b]TURN[/b] 
+[9H] [3H] [4S] [4C]
+John_Moss bets 7€
+Lomic87 folds
+John_Moss collected 13.54€ from pot
+[b]SUMMARY[/b]
+Total pot 13.54€ | Rake 0.46€
+Board: 
+[9H] [3H] [4S] [4C]
+Seat 5: John_Moss (small blind) won 13.54€
+
+
+Winamax Poker - CashGame - HandId: #8276789-610-1450274228 - Holdem no limit (0.50€/1€) - 2015/12/16 13:57:08 UTC
+Table: 'SHORT TRACK 5€' 5-max (real money) Seat #2 is the button
+Seat 1: UPUSHLFOLD (72.89€)
+Seat 2: NYENMICA 86 (5€)
+Seat 4: tierce38 (5.50€)
+[b]ANTE/BLINDS[/b]
+tierce38 posts small blind 0.50€
+UPUSHLFOLD posts big blind 1€
+[b]PRE-FLOP[/b] 
+NYENMICA 86 raises 4€ to 5€ and is all-in
+tierce38 folds
+UPUSHLFOLD folds
+NYENMICA 86 collected 6.50€ from pot
+[b]SUMMARY[/b]
+Total pot 6.50€ | No rake
+Seat 2: NYENMICA 86 (button) won 6.50€
+
+
