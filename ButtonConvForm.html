@@ -18,41 +18,47 @@ var pullfiles=function(){
     // cache files.length 
     var fl=files.length;
     var i=0;
-
     var lines="";
 
-    var nbread=0;
-    while ( i < fl) {
-        // localize file var in the loop
-        var f = files[i];
-        //alert(file.name);
-        //lines+=f.name+";\n";
+    var dospoolout=function(){
+
+	 	var a = document.createElement("a");
+	    var file = new Blob([lines], {type: 'text/plain'});
+	    a.href = URL.createObjectURL(file);
+	    a.download = "winamax_json.txt";
+	    a.click();
+    }
+
+    var doNextFile=function(){
+    	var f = files[i];
 
 	    if (f) {
 	    	lines +="Trying "+f.name+"\r\n";
-	      var r = new FileReaderSync();	      
-	      r.readAsText(f);
+	    	var r = new FileReader();
+	    	
+	    	r.onload= function(e){
+	    		var ftext=r.result;
+		        lines+= "Got the file" 
+		              +"name: " + f.name + " " 
+		              + ftext.substring(0,300) + "\r\n";
 
-		  var contents = r.result;
-	        lines+= "Got the file" 
-	              +"name: " + f.name + " "
-	              +"type: " + f.type + " "
-	              +"size: " + f.size + " bytes "
-	              + "starts with: \r\n" 
-	              + contents + "\r\n";
-	         lines+=" "+r.error+"\r\n";	      
-	    } else { 
-	      alert("Failed to load file");
+	    		i++;
+	    		if(i < fl){
+	    			lines+=" now doing "+i+" \n";
+	    			doNextFile();
+	    		}else{
+	    			dospoolout();	
+	    		}
+	    		
+
+
+	    	}	      
+	     	r.readAsText(f);    
 	    }
+    	
+    }
 
-        i++;
-    }    
-
- 	var a = document.createElement("a");
-    var file = new Blob([lines], {type: 'text/plain'});
-    a.href = URL.createObjectURL(file);
-    a.download = "winamax_json.txt";
-    a.click();
+    doNextFile();
 
 
 }
